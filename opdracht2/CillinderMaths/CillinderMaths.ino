@@ -54,5 +54,5 @@ void loop()
     Serial.println("Your cylinder kubik of: ");
     Serial.print(volume);
 
-    Serial.end();
+    //Serial.end();
 } 
